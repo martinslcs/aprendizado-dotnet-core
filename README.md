@@ -8,6 +8,7 @@ Este repositório serve para documentar o que irei aprender durante o curso de .
 - Explorar a criação de APIs, aplicações web e integrações.
 - Estudar práticas de desenvolvimento e boas práticas com C#.
 - Entender como trabalhar com bancos de dados e autenticação.
+- Conceitos Cloud (Azure)
 
 ## Estrutura do Repositório
 
