@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aprendizado .NET Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e6400ea3d88c07966183d490607e4ca0aed48b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+278905896f8d442cb18f93cd51b59b64662904b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aprendizado .NET Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aprendizado .NET Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
